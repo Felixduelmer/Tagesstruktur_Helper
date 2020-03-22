@@ -14,6 +14,10 @@
     <string name="Mittagessen_text">Wann isst du normalerweise dein Mittagessen?</string>
     <string name="Abendessen_text">Wann isst du normalerweise zu Abend?</string>
     <string name="Next_button_Essen">Auf zum nächsten Schritt</string>
+    <string name="sport_radio_group_text">Wann willst du lieber Sport machen?</string>
+    <string name="radio_button_vormittags_sport">Vormittags</string>
+    <string name="radio_button_nachmittags_sport">Nachmittags</string>
+    <string name="Button_plan_erstellung">Erstelle mir meinen Plan!</string>
 
 
 </resources>

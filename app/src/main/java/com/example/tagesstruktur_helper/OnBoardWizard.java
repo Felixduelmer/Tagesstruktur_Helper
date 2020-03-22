@@ -85,7 +85,7 @@ public class OnBoardWizard extends AppCompatActivity {
             public void onClick(View v) {
                 if(frueh_selected && mittag_selected && abend_selected){
                     Intent intent = new Intent(getApplicationContext(), OnBoardWizard2.class);
-                    intent.putExtra("time_fueh", time_frueh);
+                    intent.putExtra("time_frueh", time_frueh);
                     intent.putExtra("time_mittag", time_mittag);
                     intent.putExtra("time_abend", time_abend);
                     startActivity(intent);
