@@ -1,3 +1,3 @@
 # Tagesstruktur_Helper
 
-Diese App soll in Zeiten des Corona Virus Menschen mit psychischen und mentalen Problemen dabei unterstützen ihren Tagesablauf beizubehalten.
+Eine feste Tagesstruktur ist in Krisenzeiten vor allem für Menschen mit psychischen Erkrankungen wichtig. Wenn der gewohnte Tagesablauf plötzlich ausfällt, kann dies zu einer Verschlechterung der psychischen Gesundheit führen. Wir wollen eine App entwickeln, die für Menschen in Isolation (besonders für Menschen mit psychischen Erkrankungen) einen Tagesablauf per Algorithmus aufstellt. Dieser Tagesablauf könnte auf Präferenzen, die man in der App angeben muss, basieren.
