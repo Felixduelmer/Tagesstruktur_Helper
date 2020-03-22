@@ -1,0 +1,2 @@
+rootProject.name='Tagesstruktur_Helper'
+include ':app'
